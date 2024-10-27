@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 4bl.it\n"
+"POT-Creation-Date: 2017-07-04 14:35+0200\n"
+"PO-Revision-Date: 2017-07-04 14:38+0200\n"
+"Last-Translator: Michele \"O-Zone\" Pinassi <o-zone@zerozone.it>\n"
+"Language-Team: Michele Pinassi <o-zone@zerozone.it>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: 4blit-admin.php:195
+msgid "Connected !"
+msgstr "Connesso !"
+
+#: 4blit-admin.php:197
+msgid "Error: "
+msgstr "Errore: "
+
+#: 4blit-admin.php:252
+msgid "Ooops ! Something wrong while registering your blog: please try later."
+msgstr ""
+
+#: 4blit-admin.php:258
+msgid ""
+"Great ! Your BLOG was registered successfully on 4bl.it: now check your "
+"mailbox..."
+msgstr ""
+"Ottimo ! Il tuo BLOG è stato registrato con successo su 4bl.it: adesso "
+"controlla la tua casella e-mail..."
+
+#: 4blit-admin.php:273
+msgid "Register your blog on 4bl.it"
+msgstr "Registra il tuo blog su 4bl.it"
+
+#: 4blit-admin.php:274
+msgid ""
+"Please check (and fix, if need) the following data, that will be sent to 4bl."
+"it server to register your blog on our platform. Don't worry, it's FREE and "
+"NO PERSONAL DATA will be sent !"
+msgstr ""
+
+#: 4blit-admin.php:278
+msgid "Blog name"
+msgstr "Nome"
+
+#: 4blit-admin.php:284
+msgid "Blog description"
+msgstr "Descrizione"
+
+#: 4blit-admin.php:290
+msgid "Admin e-mail"
+msgstr "E-Mail amministratore"
+
+#: 4blit-admin.php:296
+msgid "Blog URL"
+msgstr "URL"
+
+#: 4blit-admin.php:303
+msgid ""
+"By clicking Sign Up, you agree to our <a href='http://www.4bl.it/"
+"legal'>Terms</a>, including data use policy and cookie use"
+msgstr ""
+
+#: 4blit-admin.php:305
+msgid "Register now"
+msgstr "Registrati adesso"
+
+#: 4blit-admin.php:311
+msgid "Already registered ?"
+msgstr "Già registrato ?"
+
+#: 4blit-admin.php:312
+msgid "If your blog is already registered, just type there your 4bl.it API key"
+msgstr "Se il tuo blog è già registrato, copia qui la tua chiave API 4bl.it"
+
+#: 4blit-admin.php:316
+msgid "API key"
+msgstr "Chiave API"
+
+#: 4blit-admin.php:322
+msgid "Sign in"
+msgstr "Accedi"
+
+#: 4blit-admin.php:331
+msgid "Options updated !"
+msgstr "Opzioni aggiornate !"
+
+#: 4blit-admin.php:343
+msgid "Verify connection"
+msgstr "Verifica la connessione"
+
+#: 4blit-admin.php:352
+msgid "Your 4blit BOT Api Key"
+msgstr "La tua API Key 4bl.it"
+
+#: 4blit-admin.php:356
+msgid ""
+"This is the unique API key for your blog. Please, keep it safe and do not "
+"change if not needed."
+msgstr ""
+"Questa è la chiave API univoca per il tuo blog. Conservala al sicuro e non "
+"modificarla, a meno che non sia necessario."
+
+#: 4blit-admin.php:359
+msgid "Default is to publish new articles"
+msgstr "Pubblica tutti i nuovi articoli di default"
+
+#: 4blit-admin.php:365
+msgid "Submit"
+msgstr "Salva"
+
+#: 4blit.php:99 4blit.php:108
+msgid "Publish this post on 4blit"
+msgstr "Pubblica questo articolo su 4bl.it"
+
+#: 4blit.php:315
+#, fuzzy
+msgid "Post published successfully on 4bl.it !"
+msgstr "Articolo pubblicato con successo su 4bl.it"
+
+#: 4blit.php:323
+msgid ""
+"Ooops ! Something wrong happens while publish your post on 4bl.it: try again "
+"in few minutes"
+msgstr ""
+"Ooops ! E' successo qualcosa di sbagliato nella pubblicazione del tuo post "
+"su 4bl.it: prova ancora tra qualche minuto...."
+
+#~ msgid "Type here your AllAround BOT Api Key"
+#~ msgstr "Digita qui la chiave del BOT"
+
+#~ msgid ""
+#~ "Click on the following button to connect this blog and start broadcasting:"
+#~ msgstr ""
+#~ "Clicca sul pulsante sottostante per connettere questo blog ed iniziare le "
+#~ "trasmissioni:"
+
+#~ msgid "Connect this blog"
+#~ msgstr "Connetti questo blog"
+
+#~ msgid ""
+#~ "Before you start, please visit <a href='http://www.allaroundsiena."
+#~ "com'>allaroundsiena.com</a> to get an API key for your blog"
+#~ msgstr ""
+#~ "Prima di iniziare, visita <a href='http://www.allaroundsiena."
+#~ "com'>allaroundsiena.com</a> per ottenere la chiave API per questo blog"
